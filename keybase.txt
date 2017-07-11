@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/dgarman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielgarman.com
+  * I am dgarman (https://keybase.io/dgarman) on keybase.
+  * I have a public key ASCAEZdTrZJ5iusNM2yVh7kLLdC5fD37IMrxnqa8Ozjo1go
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012080119753ad92798aeb0d336c9587b90b2dd0b97c3dfb20caf19ea6bc3b38e8d60a",
+            "host": "keybase.io",
+            "kid": "012080119753ad92798aeb0d336c9587b90b2dd0b97c3dfb20caf19ea6bc3b38e8d60a",
+            "uid": "707a2595178e77767a3c647371ba2f19",
+            "username": "dgarman"
+        },
+        "service": {
+            "hostname": "danielgarman.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.8"
+    },
+    "ctime": 1458421558,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1458421511,
+        "hash": "a1bb974e75cb2a0491178c2f26cc84ddd518d9f6e0dbac316da5d63c50b6abf3618e3b67a25e38ffc001b043a09c15f1768aafb7fe8b37caf12be5c70a39dd20",
+        "seqno": 414833
+    },
+    "prev": "e2fda960907c63d99d0932b9b63b183b18524091b0bf44852431260cd59eed23",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggBGXU62SeYrrDTNslYe5Cy3QuXw9+yDK8Z6mvDs46NYKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODAxMTk3NTNhZDkyNzk4YWViMGQzMzZjOTU4N2I5MGIyZGQwYjk3YzNkZmIyMGNhZjE5ZWE2YmMzYjM4ZThkNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODAxMTk3NTNhZDkyNzk4YWViMGQzMzZjOTU4N2I5MGIyZGQwYjk3YzNkZmIyMGNhZjE5ZWE2YmMzYjM4ZThkNjBhIiwidWlkIjoiNzA3YTI1OTUxNzhlNzc3NjdhM2M2NDczNzFiYTJmMTkiLCJ1c2VybmFtZSI6ImRnYXJtYW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhbmllbGdhcm1hbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjgifSwiY3RpbWUiOjE0NTg0MjE1NTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1ODQyMTUxMSwiaGFzaCI6ImExYmI5NzRlNzVjYjJhMDQ5MTE3OGMyZjI2Y2M4NGRkZDUxOGQ5ZjZlMGRiYWMzMTZkYTVkNjNjNTBiNmFiZjM2MThlM2I2N2EyNWUzOGZmYzAwMWIwNDNhMDljMTVmMTc2OGFhZmI3ZmU4YjM3Y2FmMTJiZTVjNzBhMzlkZDIwIiwic2Vxbm8iOjQxNDgzM30sInByZXYiOiJlMmZkYTk2MDkwN2M2M2Q5OWQwOTMyYjliNjNiMTgzYjE4NTI0MDkxYjBiZjQ0ODUyNDMxMjYwY2Q1OWVlZDIzIiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAK0C9Dvhqp1kUH1cepAcnAa8BjrDZIab4cWvAswZz40mT8/N32XbB9flJTo9EMp35dCStwFVeNqE/av9P4UZmDKhzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dgarman
+
+==================================================================

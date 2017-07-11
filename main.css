@@ -8,13 +8,14 @@ header {
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
     ),
-  url(../Downloads/L0SVTL6Y5H.jpg);
+  url(L0SVTL6Y5H.jpg);
   background-size: cover;
   height: 100vh;
 }
 
 nav {
   width: 100%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #up-logo {
@@ -23,7 +24,6 @@ nav {
 
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
   font-size: 140%;
   width: 100%;
   overflow-x: hidden;
@@ -151,7 +151,7 @@ body {
 }
 
 .readable {
-  font-size: 145%;
+  font-size: 175%;
 }
 
 footer {
@@ -178,13 +178,13 @@ footer p {
 .linkedin {
   display: inline-block;
   margin-left: 1%;
-  background: transparent url("/Users/Dan/Downloads/In-White-34px-R.png");
+  background: transparent url("In-White-34px-R.png");
   height: 32px;
   width: 36px;
 }
 
 .linkedin:hover {
-  background: transparent url("/Users/Dan/Downloads/In-2C-34px-R.png");
+  background: transparent url("In-2C-34px-R.png");
   height: 32px;
   width: 36px;
 }
@@ -197,13 +197,13 @@ footer p {
 .github {
   display: inline-block;
   margin-right: 1%;
-  background: transparent url("/Users/Dan/Downloads/GitHub-Mark-Light-32px.png");
+  background: transparent url("GitHub-Mark-Light-32px.png");
   height: 32px;
   width: 32px;
 }
 
 .github:hover {
-  background: transparent url("/Users/Dan/Downloads/GitHub-Mark-32px.png");
+  background: transparent url("GitHub-Mark-32px.png");
 }
 
 .test {
@@ -229,8 +229,26 @@ footer p {
 }
 
 .tight-margin {
-  padding: 0 15px 0 15px;
+  padding: 0 15% 5% 15%;
   color: rgba(81, 82, 117, 0.8);
+}
+
+.gray-blue {
+  color: rgba(81, 82, 117, 0.8);
+  font-size: 125%;
+  line-height: 0.5rem;
+}
+
+.first-indent {
+  padding-left: 2%;
+}
+
+.second-indent {
+  padding-left: 4%;
+}
+
+.third-indent {
+  padding-left: 6%;
 }
 
 .param {
